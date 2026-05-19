@@ -1,5 +1,5 @@
 # 💫 About Me:
-###  Hi there 👋<br><br>Nice Meeting you, I'm Nikhil<br><br>🔭 **I’m currently working on** Building Real-time applications<br><br>💬 **Ask me about** Web development related stuff<br><br>📫 **How to reach me: ** LinkedIn - [@Nikhil Yerramilli]<br><br>😄 **Pronouns: **He/Him<br><br>⚡ **Fun fact: **I hold an **NCC 'C' Certificate**, meaning I can bring military-grade discipline, structured leadership, and high-stakes teamwork directly into a coding repository!
+###  Hi there 👋<br><br>Nice Meeting you, I'm Nikhil<br><br>🔭 **I’m currently working on** Building Real-time applications<br><br>💬 **Ask me about** Web development related stuff<br><br>📫 **How to reach me: ** LinkedIn - [@Nikhil Yerramilli]<br><br>😄 **Pronouns: **He/Him<br><br>⚡ Fun fact: I hold an NCC 'C' Certificate, meaning I can bring military-grade discipline, structured leadership, and high-stakes teamwork directly into a coding repository!
 
 
 ## 🌐 Socials:
